@@ -1,0 +1,5 @@
+Línea 1: Este es un archivo de ejemplo
+Línea 2: Para demostrar try-with-resources
+Línea 3: En el Trabajo Práctico 8
+Línea 4: Programación II - Interfaces y Excepciones
+Línea 5: Alumno: Fabricio Puccio
