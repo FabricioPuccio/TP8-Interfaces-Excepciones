@@ -10,7 +10,7 @@ public class TryWithResourcesDemo {
         System.out.println("\nEJERCICIO 5: TRY-WITH-RESOURCES");
         System.out.println("===================================");
 
-        // Ruta del archivo - ajustala según tu estructura
+        // Ruta del archivo
         String nombreArchivo = "resources/datos_ejemplo.txt";
 
         System.out.println("Leyendo archivo: " + nombreArchivo);
