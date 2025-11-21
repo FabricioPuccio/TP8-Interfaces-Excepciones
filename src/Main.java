@@ -19,10 +19,10 @@ public class Main {
         System.out.println("=".repeat(60));
 
         // Parte 2: Ejercicios de Excepciones
-        //DivisionSegura.ejecutarEjercicio();
-        //ConversionCadenaNumero.ejecutarEjercicio();
-        //LecturaArchivo.ejecutarEjercicio();
-        //ValidacionEdad.ejecutarEjercicio();
+        DivisionSegura.ejecutarEjercicio();
+        ConversionCadenaNumero.ejecutarEjercicio();
+        LecturaArchivo.ejecutarEjercicio();
+        ValidacionEdad.ejecutarEjercicio();
         TryWithResourcesDemo.ejecutarEjercicio();
 
         System.out.println("\n¡TRABAJO PRÁCTICO COMPLETADO EXITOSAMENTE!");
